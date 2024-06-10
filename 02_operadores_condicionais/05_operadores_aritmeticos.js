@@ -1,7 +1,7 @@
 /*
     Operadores Aritimeticos
 
-    Somae = +
+    Somar = +
     Multiplicar = *
     Dividir = /
     Subtrair = -
